@@ -5,12 +5,15 @@ This project is a 3D design of a Blue among us character that I made on OnShape.
 
 ## Images:
 Front:
+
 <img width="387" height="442" alt="Screenshot 2026-10-09 180902" src="https://github.com/user-attachments/assets/b943955e-4e5f-4b9a-a390-5b3425210c0a" />
 
 Back:
+
 <img width="555" height="517" alt="Screenshot 2026-10-09 180910" src="https://github.com/user-attachments/assets/04120d43-f155-40b0-ad8f-0e76a90386c0" />
 
 Isometric:
+
 <img width="431" height="438" alt="Screenshot 2026-10-09 180916" src="https://github.com/user-attachments/assets/f00e04af-1977-425e-8bb4-91cbc84e98f8" />
 
 Software:
